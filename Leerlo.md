@@ -24,12 +24,12 @@ El programa debe solicitar al usuario:
 - Multiplicación de matrices (solo si las dimensiones son compatibles)
 Finalmente, el programa mostrará el resultado de la operación seleccionada.
 ==================================================================================================================
-VALIDACIONES  
-Tener en cuenta las validaciones como:
--Validación de Tipo de Dato Numérico
--Validación de Campos Vacíos 
--Validación de Valores Cero o Negativos
--Validación de Elementos de Vector/Matriz 
--Validación de Selección de Menú
+VALIDACIONES
+Tener en cuenta las siguientes validaciones al desarrollar el programa en Python utilizando NumPy:
+- Validación de tipo de dato numérico (evitar letras o símbolos no válidos).
+- Validación de campos vacíos (asegurar que se ingresen todos los datos requeridos).
+- Validación de valores cero o negativos (según la lógica de la operación).
+- Validación de elementos de vector/matriz (verificar que la cantidad y formato de los datos coincidan con las dimensiones indicadas).
+- Validación de selección de menú (asegurar que el usuario elija una opción válida para la operación a realizar).
 
 
