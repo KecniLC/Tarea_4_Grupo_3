@@ -10,7 +10,7 @@ El programa debe solicitar al usuario:
 - Producto punto (solo si hay dos vectores)
 Finalmente, el programa mostrará el resultado de la operación seleccionada.
 
-=================================================================================================================
+============================================================================================
 
 ACTIVIDAD
 Desarrollar un programa en Python utilizando NumPy que permita realizar operaciones básicas con matrices.
@@ -23,7 +23,8 @@ El programa debe solicitar al usuario:
 - Multiplicación por un escalar
 - Multiplicación de matrices (solo si las dimensiones son compatibles)
 Finalmente, el programa mostrará el resultado de la operación seleccionada.
-==================================================================================================================
+
+===========================================================================================
 
 VALIDACIONES
 Tener en cuenta las siguientes validaciones al desarrollar el programa en Python utilizando NumPy:
