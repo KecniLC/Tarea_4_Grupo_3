@@ -24,6 +24,7 @@ El programa debe solicitar al usuario:
 - Multiplicación de matrices (solo si las dimensiones son compatibles)
 Finalmente, el programa mostrará el resultado de la operación seleccionada.
 ==================================================================================================================
+
 VALIDACIONES
 Tener en cuenta las siguientes validaciones al desarrollar el programa en Python utilizando NumPy:
 - Validación de tipo de dato numérico (evitar letras o símbolos no válidos).
